@@ -1,6 +1,6 @@
-# nkust1111111111ooo_midterm
+# nkust_c111111112_蔡尚儒_midterm
 
-期中作業參考
+期中作業
 
 ## Getting Started
 
